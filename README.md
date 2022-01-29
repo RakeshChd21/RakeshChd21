@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RakeshChd21
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python and Web Development
+- 🌱 I’m currently learning C programming language and Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
